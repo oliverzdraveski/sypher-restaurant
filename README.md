@@ -41,21 +41,21 @@ I'm a front-end developer curently working with React.js, while also expanding m
 
 
 ## 🛠 Skills
-HTML, CSS,Javascript, React.
+HTML, CSS, Javascript, React.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://oliverzdraveski.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-zdraveski/)
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at 
+If you have any feedback, please reach out to me at https://oliverzdraveski.netlify.app/
 
 
 ## Demo
 
-Insert link to demo
+https://sypher-restaurant.netlify.app
 
